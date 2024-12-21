@@ -6,4 +6,5 @@ usage：
 pip install ultralytics
 
 cd yolo11-pose
+
 python ./single_detrctv2.py
